@@ -13,7 +13,8 @@ No additional characters are allowed except for those mentioned.
 
     Valid smiley face examples: :) :D ;-D :~)
     Invalid smiley faces: ;( :> :} :]
-    Example:
+   Example:
+   -
     countSmileys([':)', ';(', ';}', ':-D']);       // should return 2;
     countSmileys([';D', ':-(', ':-)', ';~)']);     // should return 3;
     countSmileys([';]', ':[', ';*', ':$', ';-D']); // should return 1;
